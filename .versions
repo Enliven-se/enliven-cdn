@@ -43,8 +43,6 @@ retry@1.0.9
 routepolicy@1.0.12
 spacebars@1.0.12
 spacebars-compiler@1.1.0
-templating@1.2.13
-templating-tools@1.1.1
 tinytest@1.0.12
 tracker@1.1.2
 ui@1.0.11
